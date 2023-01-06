@@ -7,7 +7,8 @@
 
 ![Marcelo GitHub stats](https://github-readme-stats.vercel.app/api?username=marcelof1997&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcelof1997&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Projeto ByteBank](https://user-images.githubusercontent.com/116675716/211028431-adcd2de8-15f3-4f99-b459-972ea03df624.png)
+](https://github.com/marcelof1997/ProjetosIma/blob/main/Projeto%20Bank/Program.cs)
 
 ##Tecnologias que utilizo
 
