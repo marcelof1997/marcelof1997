@@ -22,4 +22,11 @@
 <img align="center" alt="c#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /><br/>
 </div>
 
+<!-- Github README stats - https://github.com/anuraghazra/github-readme-stats -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-nome-de-usuário&show_icons=true&theme=radical&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-nome-de-usuário&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=seu-nome-de-usuário.seu-nome-de-usuário)
+
                                         RESOLVENDO PROBLEMAS 💻😎
